@@ -1,6 +1,6 @@
 # 👋 Hi there! I’m **Ganindra Bima**
 
-![Profile picture]([https://via.placeholder.com/400?text=Generate+Your+Avatar+From+Prompt](https://avatars.githubusercontent.com/u/233632232?v=4))  
+![Profile picture](https://avatars.githubusercontent.com/u/233632232?v=4)  
 *(Use the prompt below to generate a custom avatar for your GitHub profile)*  
 
 > **Prompt for DALL·E / Midjourney / Stable Diffusion**  
