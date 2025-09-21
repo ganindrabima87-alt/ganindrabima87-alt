@@ -1,11 +1,6 @@
 # 👋 Hi there! I’m **Ganindra Bima**
 
 ![Profile picture](https://avatars.githubusercontent.com/u/233632232?v=4)  
-*(Use the prompt below to generate a custom avatar for your GitHub profile)*  
-
-> **Prompt for DALL·E / Midjourney / Stable Diffusion**  
-> `A vibrant digital illustration of a tech‑savvy professional in his early 30s, wearing a casual hoodie with subtle circuit patterns. He has short, slightly wavy dark hair, a friendly smile, and glasses with a thin blue frame. The background features a blurred matrix of code snippets and neon‑blue data streams, giving a futuristic yet approachable vibe. Style: modern flat design with a hint of sci‑fi aesthetics, suitable for a GitHub profile avatar.`
-
 ---
 
 ## 🌍 About Me
